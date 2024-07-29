@@ -12,6 +12,7 @@ class Program
 		{
 
             Console.WriteLine("Tizimda muammo!");
+            Console.Beep();
         }
         finally
         {
